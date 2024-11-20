@@ -1,0 +1,28 @@
+These are (should be) all of the summonable avatars without glows.
+People use these to remove the glow effect and help with lag.
+
+Horizon XI Pivot Location:
+...HorizonXI-Launcher\HorizonXI\Game\polplugins\DATs\Glowless Avatars 
+
+Make sure you back up your original dats first!!!
+
+
+** Only use this method if not using Pivot
+
+ROM Location:
+Final Fantasy XI\ROM\97\
+66.dat - Carbuncle
+67.dat - Fenrir
+68.dat - Ifrit
+69.dat - Titan
+70.dat - Leviathan
+71.dat - Garuda
+72.dat - Shiva
+73.dat - Ramuh
+
+Final Fantasy XI\ROM\159\
+51.dat - Diabolos
+
+
+Horizon XI Pivot Location:
+...HorizonXI-Launcher\HorizonXI\Game\polplugins\DATs\Glowless Avatars
