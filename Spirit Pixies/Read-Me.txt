@@ -1,0 +1,31 @@
+These are (should be) all of the summonable spirit pixie avatars with various versions
+
+Horizon XI Pivot Location:
+...HorizonXI-Launcher\HorizonXI\Game\polplugins\DATs\...spirit Pixies 
+
+Make sure you back up your original dats first!!!
+
+
+** Only use this method if not using Pivot
+
+ROM Location:
+Final Fantasy XI\ROM\97\
+58.dat - Fire
+59.dat - Water
+60.dat - Air
+61.dat - Earth
+62.dat - Ice
+63.dat - Thunder
+64.dat - Light
+65.dat - Dark
+
+
+
+
+Horizon XI Pivot Location:
+...HorizonXI-Launcher\HorizonXI\Game\polplugins\DATs\...Spirit Pixies
+
+
+Credit:
+I did not create these and was unable to find the creator.If anyone knows the creator, I
+would like to give them credit. You can reach out to me on Github @ Mr Sithel. Thanks!
