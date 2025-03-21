@@ -3,6 +3,8 @@
 - FFXI Cursor
 - Final Fantasy 7 Menu Sounds (Made by Zerio)
 - Glowless Summoner Avatars (I did not create these)
+## Added
+- Various versions of Summoner Spirit Pacts with no glow, glow and crazy amounts of glow (I did not create these)
 
 ## Description
 A collection of DATs I've collected over the years. Some I've created while others are great work from the community.
