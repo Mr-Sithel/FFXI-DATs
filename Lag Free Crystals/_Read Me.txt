@@ -1,0 +1,10 @@
+Use Pivot to install dats!
+Change included colored pin dats to one of the ones below.
+
+ROM/3/25.dat	= Home Point Crystals
+ROM/3/29.dat    = Telepoint Crystals
+
+
+ROM/250/54.dat  = Abyssea Maw
+ROM/240/111.dat = Abyssea Conflux
+ROM5/8/92.dat   = Walk of Echoes Conflux
