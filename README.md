@@ -6,6 +6,8 @@
 ## Added
 - Various versions of Summoner Spirit Pacts with no glow, glow and crazy amounts of glow (I did not create these)
 - Various colored pins used to replace tele point and home point crystals to reduce lag
+- Glowless Summoner Enemy Avatars (Mob's pet avatars and primes) Helps reduce lag in dynamis. Made with a sepia color overlay,
+  so that you can tell your avatar apart from the mobs avatar
 
 ## Description
 A collection of DATs I've collected over the years. Some I've created while others are great work from the community.
