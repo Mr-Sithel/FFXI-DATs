@@ -1,0 +1,27 @@
+These are (should be) all of the enemy avatars without glows.
+Both Primes and Mob's pet for dynamis.  
+Use Pivot to use these mods.
+
+ROM/97:
+86 - Prime Carbuncle
+
+ROM/119:
+58 - Prime Ifrit
+59 - Prime Titan
+60 - Prime Leviathan
+61 - Prime Garuda
+62 - Prime Shiva
+63 - Prime Ramuh
+
+ROM/142:
+99 - Carbuncle
+
+ROM/159:
+41 - Prime Fenrir
+
+ROM/259:
+14 - Prime Diabolos
+
+
+Horizon XI Location:
+...HorizonXI-Launcher\HorizonXI\Game\polplugins\DATs\Glowless Enemy Avatars
