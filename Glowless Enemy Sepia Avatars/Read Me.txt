@@ -9,7 +9,7 @@ ROM/119:
 58 - Prime Ifrit
 59 - Prime Titan
 60 - Prime Leviathan
-61 - Prime Garuda
+61 - Prime Garuda <-- Fixed (Was broken and never worked correctly)
 62 - Prime Shiva
 63 - Prime Ramuh
 
