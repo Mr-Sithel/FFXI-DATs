@@ -1,0 +1,1 @@
+Replaces the firework sounds with a blank muted sound file

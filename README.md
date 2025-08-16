@@ -4,6 +4,7 @@
 - Final Fantasy 7 Menu Sounds (Made by Zerio)
 - Glowless Summoner Avatars (I did not create these)
 ## Added
+- Remove the annoying firework sounds from the Sunbreeze Festival event
 - Various resolutions of an HD Sacrarium map DAT (Normal and Flipped w/ examples)
 - Various versions of Summoner Spirit Pacts with no glow, glow and crazy amounts of glow (I did not create these)
 - Various colored pins used to replace tele point and home point crystals to reduce lag
