@@ -7,18 +7,19 @@
 
 ## Added
 
-- (Mithra Lax Idle) Changes Idle Animation (I did not create these)
-- (Mog Houses) HD Version of Houses (I did not create these)
-- (Mounts) Changes the default Chocobo Mount from yellow to blue (Created by Sithel)
-- (Reraise 1) Changes the default reraise animation (I did not create these)
-- (Bind) Changes the default bind animation (I did not create these)
-- (WHM Teleport) Changes the default teleport animation (I did not create these)
-- (No Fireworks) Remove the annoying firework sounds from the Sunbreeze Festival event (Created by Sithel)
-- (Sacrarium Map HD) Various resolutions of an HD Sacrarium map DAT (Normal and Flipped w/ examples) (Created by Sithel)
-- (Spirit Pixies )Various versions of Summoner Spirit Pacts with no glow, glow and crazy amounts of glow *(I did not create these)*
-- (Lag Free Crystals) Various colored pins used to replace tele point and home point crystals to reduce lag *(Created by Sithel)*
-- (Glowless Enemy Sepia Avatars) Mob's pet avatars and primes. Helps reduce lag in dynamis. Made with a sepia color overlay,
-  so that you can tell your avatar apart from the mobs avatar (I did not create these)
+- **Mithra Lax Idle** - Changes Idle Animation *(I did not create these)*
+- **Pokemon Mobs** - Various dat changes of in game monsters to pokemon versions (Created by Lizze)
+- **Mog Houses** - HD Version of Houses *(I did not create these)*
+- **Mounts** - Changes the default Chocobo Mount from yellow to blue *(Created by Sithel)*
+- **Reraise 1** - Changes the default reraise animation *(I did not create these)*
+- **Bind** - Changes the default bind animation *(I did not create these)*
+- **WHM Teleport** - Changes the default teleport animation *(I did not create these)*
+- **No Fireworks** - Remove the annoying firework sounds from the Sunbreeze Festival event *(Created by Sithel)*
+- **Sacrarium Map HD** - Various resolutions of an HD Sacrarium map DAT (Normal and Flipped w/ examples) *(Created by Sithel)*
+- **Spirit Pixies** - Various versions of Summoner Spirit Pacts with no glow, glow and crazy amounts of glow *(I did not create these)*
+- **Lag Free Crystals** - Various colored pins used to replace tele point and home point crystals to reduce lag *(Created by Sithel)*
+- **Glowless Enemy Sepia Avatars** - Mob's pet avatars and primes. Helps reduce lag in dynamis. Made with a sepia color overlay,
+  so that you can tell your avatar apart from the mobs avatar *(I did not create these)*
 
 ## Description
 
