@@ -1,6 +1,7 @@
 ### HD Sacrarium Map DAT
 
 This is for the in game map of Sacrarium.
+
 Change the sacrarium map .DAT with 3 resolutions to pick from
  - 512x512
  - 1024x1024
