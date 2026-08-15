@@ -14,16 +14,32 @@ If on Horizon, path is:
 
 * Copy to a new folder in the DATs location and make sure its enabled in the launcher.
 - HorizonXI\Game\polplugins\DATs
-- 	    Undersea Ruins Maps Labelled
-- 		ROM - 284 (dats 99-103)
-- 		      285 (dats 0-6)
+```
+Undersea Ruins Maps Labelled
+└── ROM
+    ├── 284
+    │   ├── 99.dat
+    │   ├── 100.dat
+    │   ├── 101.dat
+    │   ├── 102.dat
+    │   └── 103.dat
+    └── 285
+        ├── 0.dat
+        ├── 1.dat
+        ├── 2.dat
+        ├── 3.dat
+        ├── 4.dat
+        ├── 5.dat
+        └── 6.dat
+```
+
 
 If you use a new location make sure these are above any other maps for priority or these won't show.
 * Type /pivot in game to check priority.
 
 ### Screenshot
 
-![example]()
+![example](https://github.com/Mr-Sithel/FFXI-DATs/blob/main/Undersea%20Ruins%20Maps%20Labelled/Example.png?raw=true)
 
 
 ### Credit 
